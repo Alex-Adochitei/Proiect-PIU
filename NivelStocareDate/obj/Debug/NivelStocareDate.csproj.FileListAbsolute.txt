@@ -1,0 +1,9 @@
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\NivelStocareDate\bin\Debug\NivelStocareDate.dll
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\NivelStocareDate\bin\Debug\NivelStocareDate.pdb
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\NivelStocareDate\bin\Debug\LibrarieModele.dll
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\NivelStocareDate\bin\Debug\LibrarieModele.pdb
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.AssemblyReference.cache
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CoreCompileInputs.cache
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CopyComplete
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\NivelStocareDate\obj\Debug\NivelStocareDate.dll
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\NivelStocareDate\obj\Debug\NivelStocareDate.pdb

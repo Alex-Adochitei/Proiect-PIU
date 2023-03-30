@@ -1,0 +1,6 @@
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\LibrarieModele\bin\Debug\LibrarieModele.dll
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\LibrarieModele\bin\Debug\LibrarieModele.pdb
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\LibrarieModele\obj\Debug\LibrarieModele.dll
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\LibrarieModele\obj\Debug\LibrarieModele.pdb

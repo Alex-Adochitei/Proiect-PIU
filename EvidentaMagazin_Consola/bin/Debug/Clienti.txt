@@ -1,0 +1,2 @@
+Alexandru;Adochitei;0777777;21;1;0;
+Bogdan;Uof;4215453;20;2;0;
