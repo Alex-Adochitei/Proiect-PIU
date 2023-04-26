@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Configuration;
+using System.IO;
+
 using LibrarieModele;
 using NivelStocareDate;
 
@@ -9,12 +11,14 @@ namespace EvidentaAlimente_Consola
     {
         static void Main()
         {
-            Aliment aliment = new Aliment();
             string numeFisier = ConfigurationManager.AppSettings["Alimente.txt"];
-            AdministrareAlimente_FisierText adminAlimente = new AdministrareAlimente_FisierText("Alimente.txt");
+            string locatieFisierSolutie = Directory.GetParent(System.IO.Directory.GetCurrentDirectory()).Parent.Parent.FullName;
+            string caleCompletaFisier = locatieFisierSolutie + "\\" + numeFisier;
+            AdministrareAlimente_FisierText adminAlimente = new AdministrareAlimente_FisierText(caleCompletaFisier);
             int nrAlimente = 0;
+            Aliment[] alimente = adminAlimente.GetAlimente(out nrAlimente);
+            Aliment aliment = new Aliment();
             adminAlimente.GetAlimente(out nrAlimente);
-            Aliment[] alimente = new Aliment[100];
             Client client = new Client();
             string numeFisier2 = ConfigurationManager.AppSettings["Clienti.txt"];
             AdministrareClient_FisierText adminClienti = new AdministrareClient_FisierText("Clienti.txt");
@@ -50,7 +54,7 @@ namespace EvidentaAlimente_Consola
                         break;
                     case "R":
                         int idAliment = nrAlimente + 1;
-                        aliment.SetCod(idAliment);
+                        aliment.Cod = idAliment;
                         adminAlimente.AddAliment(aliment);
                         nrAlimente = nrAlimente + 1;
                         Console.WriteLine("\n\t\tAliment salvat cu succes!\n\n");
@@ -72,7 +76,7 @@ namespace EvidentaAlimente_Consola
                         break;
                     case "F":
                         int idClient = nrClienti + 1;
-                        client.SetCod(idClient);
+                        client.Cod = idClient;
                         adminClienti.AddClient(client);
                         nrClienti = nrClienti + 1;
                         Console.WriteLine("\n\t\tClient salvat cu succes!\n\n");
@@ -94,12 +98,12 @@ namespace EvidentaAlimente_Consola
         public static void AfisareAliment(Aliment aliment)
         {
             string infoAliment = string.Format("\n\t\tAlimentul ce are codul #{0} este {1}, produs de {2}, este {3}, costa {4} lei si avem {5} bucati.",
-                   aliment.GetCod(),
-                   aliment.GetDenumire() ?? " NECUNOSCUT ",
-                   aliment.GetProducator() ?? " NECUNOSCUT ",
-                   aliment.GetTip() ?? " NECUNOSCUT ",
-                   aliment.GetPret(),
-                   aliment.GetStoc());
+                   aliment.Cod,
+                   aliment.Denumire ?? " NECUNOSCUT ",
+                   aliment.Producator ?? " NECUNOSCUT ",
+                   aliment.Tip ?? " NECUNOSCUT ",
+                   aliment.Pret,
+                   aliment.Stoc);
             Console.WriteLine(infoAliment);
         }
         public static void AfisareAlimente(Aliment[] alimente, int nrAlimente)
@@ -134,7 +138,7 @@ namespace EvidentaAlimente_Consola
                     string date = Console.ReadLine();
                     Console.WriteLine("\n\t\tS-au gasit urmatoarele alimente cu proprietati similare: ");
                     for (int i = 0; i < nrAlimente; i++)
-                        if (alimente[i].GetTip() == date)
+                        if (alimente[i].Tip == date)
                             Console.WriteLine(alimente[i].Info());
                     break;
                 case 2:
@@ -142,7 +146,7 @@ namespace EvidentaAlimente_Consola
                     date = Console.ReadLine();
                     Console.WriteLine("\n\t\tS-au gasit urmatoarele alimente cu proprietati similare: ");
                     for (int i = 0; i < nrAlimente; i++)
-                        if (alimente[i].GetDenumire() == date)
+                        if (alimente[i].Denumire == date)
                             Console.WriteLine(alimente[i].Info());
                     break;
                 case 3:
@@ -150,7 +154,7 @@ namespace EvidentaAlimente_Consola
                     date = Console.ReadLine();
                     Console.WriteLine("\n\t\tS-au gasit urmatoarele alimente cu proprietati similare: ");
                     for (int i = 0; i < nrAlimente; i++)
-                        if (alimente[i].GetProducator() == date)
+                        if (alimente[i].Producator == date)
                             Console.WriteLine(alimente[i].Info());
                     break;
                 default:
@@ -161,11 +165,11 @@ namespace EvidentaAlimente_Consola
         public static void AfisareClient(Client client)
         {
             string infoClient = string.Format("Clientul cu ID-ul #{0} se numeste {1} {2}, are {4} ani, numar de telefon: {3}.",
-                   client.GetCod(),
-                   client.GetPrenume() ?? " NECUNOSCUT ",
-                   client.GetNume() ?? " NECUNOSCUT ",
-                   client.GetTelefon() ?? " NECUNOSCUT ",
-                   client.GetVarsta());
+                   client.Cod,
+                   client.Prenume ?? " NECUNOSCUT ",
+                   client.Nume ?? " NECUNOSCUT ",
+                   client.Telefon ?? " NECUNOSCUT ",
+                   client.Varsta);
             Console.WriteLine(infoClient);
         }
         public static void AfisareClienti(Client[] clienti, int nrClienti)
@@ -198,7 +202,7 @@ namespace EvidentaAlimente_Consola
                     string date = Console.ReadLine();
                     Console.WriteLine("\n\t\tS-au gasit urmatorii clienti cu acest prenume: ");
                     for (int i = 0; i < nrClienti; i++)
-                        if (clienti[i].GetPrenume() == date)
+                        if (clienti[i].Prenume == date)
                             Console.WriteLine(clienti[i].Info());
                     break;
                 case 2:
@@ -206,7 +210,7 @@ namespace EvidentaAlimente_Consola
                     date = Console.ReadLine();
                     Console.WriteLine("\n\t\tS-au gasit urmatorii clienti cu acest nume: ");
                     for (int i = 0; i < nrClienti; i++)
-                        if (clienti[i].GetNume() == date)
+                        if (clienti[i].Nume == date)
                             Console.WriteLine(clienti[i].Info());
                     break;
                 case 3:
@@ -214,7 +218,7 @@ namespace EvidentaAlimente_Consola
                     date = Console.ReadLine();
                     Console.WriteLine("\n\t\tS-au gasit urmatorii clienti cu acesta varsta: ");
                     for (int i = 0; i < nrClienti; i++)
-                        if (clienti[i].GetVarsta() == date)
+                        if (clienti[i].Varsta == date)
                             Console.WriteLine(clienti[i].Info());
                     break;
                 case 4:
@@ -222,7 +226,7 @@ namespace EvidentaAlimente_Consola
                     date = Console.ReadLine();
                     Console.WriteLine("\n\t\tS-au gasit urmatorii clienti cu acest numar de telefon: ");
                     for (int i = 0; i < nrClienti; i++)
-                        if (clienti[i].GetTelefon() == date)
+                        if (clienti[i].Telefon == date)
                             Console.WriteLine(clienti[i].Info());
                     break;
                 default:

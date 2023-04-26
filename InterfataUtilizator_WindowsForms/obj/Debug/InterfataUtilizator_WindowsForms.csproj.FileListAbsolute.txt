@@ -1,0 +1,16 @@
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.csproj.AssemblyReference.cache
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.csproj.SuggestedBindingRedirects.cache
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.Properties.Resources.resources
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.csproj.GenerateResource.cache
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.csproj.CoreCompileInputs.cache
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\InterfataUtilizator_WindowsForms\bin\Debug\InterfataUtilizator_WindowsForms.exe.config
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\InterfataUtilizator_WindowsForms\bin\Debug\InterfataUtilizator_WindowsForms.exe
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\InterfataUtilizator_WindowsForms\bin\Debug\InterfataUtilizator_WindowsForms.pdb
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\InterfataUtilizator_WindowsForms\bin\Debug\LibrarieModele.dll
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\InterfataUtilizator_WindowsForms\bin\Debug\NivelStocareDate.dll
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\InterfataUtilizator_WindowsForms\bin\Debug\LibrarieModele.pdb
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\InterfataUtilizator_WindowsForms\bin\Debug\NivelStocareDate.pdb
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.Form1.resources
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.csproj.CopyComplete
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.exe
+G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.pdb
