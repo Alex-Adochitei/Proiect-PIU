@@ -66,33 +66,5 @@ namespace LibrarieModele
                 Cos.ToString());
             return s;
         }
-        public int GetCod()
-        {
-            return Cod;
-        }
-        public string GetVarsta()
-        {
-            return Varsta;
-        }
-        public int GetCos()
-        {
-            return Cos;
-        }
-        public string GetPrenume()
-        {
-            return Prenume;
-        }
-        public string GetNume()
-        {
-            return Nume;
-        }
-        public string GetTelefon()
-        {
-            return Telefon;
-        }
-        public void SetCod(int Cod)
-        {
-            this.Cod = Cod;
-        }
     }
 }

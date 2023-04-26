@@ -76,33 +76,5 @@ namespace LibrarieModele
                 dataActualizare.ToString());
             return s;
         }
-        public int GetCod()
-        {
-            return Cod;
-        }
-        public int GetPret()
-        {
-            return Pret;
-        }
-        public int GetStoc()
-        {
-            return Stoc;
-        }
-        public string GetDenumire()
-        {
-            return Denumire;
-        }
-        public string GetProducator()
-        {
-            return Producator;
-        }
-        public string GetTip()
-        {
-            return Tip;
-        }
-        public void SetCod(int Cod)
-        {
-            this.Cod = Cod;
-        }
     }
 }
