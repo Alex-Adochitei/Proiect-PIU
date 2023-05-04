@@ -1,4 +1,5 @@
-﻿using System.IO;
+﻿using System;
+using System.IO;
 using LibrarieModele;
 
 namespace NivelStocareDate
@@ -32,6 +33,7 @@ namespace NivelStocareDate
                     alimente[nrAlimente++] = new Aliment(linieFisier);
                 }
             }
+            Array.Resize(ref alimente, nrAlimente);
             return alimente;
         }
     }

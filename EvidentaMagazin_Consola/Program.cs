@@ -11,7 +11,7 @@ namespace EvidentaAlimente_Consola
     {
         static void Main()
         {
-            string numeFisier = ConfigurationManager.AppSettings["Alimente.txt"];
+            string numeFisier = ConfigurationManager.AppSettings["NumeFisier"];
             string locatieFisierSolutie = Directory.GetParent(System.IO.Directory.GetCurrentDirectory()).Parent.Parent.FullName;
             string caleCompletaFisier = locatieFisierSolutie + "\\" + numeFisier;
             AdministrareAlimente_FisierText adminAlimente = new AdministrareAlimente_FisierText(caleCompletaFisier);
@@ -20,8 +20,8 @@ namespace EvidentaAlimente_Consola
             Aliment aliment = new Aliment();
             adminAlimente.GetAlimente(out nrAlimente);
             Client client = new Client();
-            string numeFisier2 = ConfigurationManager.AppSettings["Clienti.txt"];
-            AdministrareClient_FisierText adminClienti = new AdministrareClient_FisierText("Clienti.txt");
+            string numeFisier2 = ConfigurationManager.AppSettings["NumeFisier2"];
+            AdministrareClient_FisierText adminClienti = new AdministrareClient_FisierText("NumeFisier2");
             int nrClienti = 0;
             adminClienti.GetClienti(out nrClienti);
             string optiune;

@@ -19,3 +19,24 @@ G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\EvidentaMagazin_Consola
 G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\EvidentaMagazin_Consola\obj\Debug\EvidentaMagazin_Consola.csproj.CopyComplete
 G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\EvidentaMagazin_Consola\obj\Debug\EvidentaMagazin_Consola.exe
 G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\EvidentaMagazin_Consola\obj\Debug\EvidentaMagazin_Consola.pdb
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\EvidentaMagazin_Consola.exe.config
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\EvidentaMagazin_Consola.exe
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\EvidentaMagazin_Consola.pdb
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\LibrarieModele.dll
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\NivelStocareDate.dll
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\System.Security.AccessControl.dll
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\System.Security.Permissions.dll
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\LibrarieModele.pdb
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\NivelStocareDate.pdb
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\System.Security.AccessControl.xml
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\System.Security.Permissions.xml
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\obj\Debug\EvidentaMagazin_Consola.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\obj\Debug\EvidentaMagazin_Consola.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\obj\Debug\EvidentaMagazin_Consola.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\obj\Debug\EvidentaMagazin_Consola.csproj.CopyComplete
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\obj\Debug\EvidentaMagazin_Consola.exe
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\obj\Debug\EvidentaMagazin_Consola.pdb

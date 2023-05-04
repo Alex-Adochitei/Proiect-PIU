@@ -7,3 +7,12 @@ G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\NivelStocareDate\obj\De
 G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CopyComplete
 G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\NivelStocareDate\obj\Debug\NivelStocareDate.dll
 G:\Scoala\An 2\Sem 2\PIU\Proiect\EvidentaMagazin_Consola\NivelStocareDate\obj\Debug\NivelStocareDate.pdb
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\NivelStocareDate\bin\Debug\NivelStocareDate.dll
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\NivelStocareDate\bin\Debug\NivelStocareDate.pdb
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\NivelStocareDate\bin\Debug\LibrarieModele.dll
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\NivelStocareDate\bin\Debug\LibrarieModele.pdb
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CopyComplete
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\NivelStocareDate\obj\Debug\NivelStocareDate.dll
+C:\Users\STUDENT\Downloads\Proiect-PIU-main\NivelStocareDate\obj\Debug\NivelStocareDate.pdb
