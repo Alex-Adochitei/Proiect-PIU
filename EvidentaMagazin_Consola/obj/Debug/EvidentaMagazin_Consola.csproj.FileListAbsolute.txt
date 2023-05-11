@@ -40,3 +40,24 @@ C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\obj\Debug\Ev
 C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\obj\Debug\EvidentaMagazin_Consola.csproj.CopyComplete
 C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\obj\Debug\EvidentaMagazin_Consola.exe
 C:\Users\STUDENT\Downloads\Proiect-PIU-main\EvidentaMagazin_Consola\obj\Debug\EvidentaMagazin_Consola.pdb
+G:\Scoala\An 2\Sem 2\PIU\Proiect\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\EvidentaMagazin_Consola.exe.config
+G:\Scoala\An 2\Sem 2\PIU\Proiect\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\EvidentaMagazin_Consola.exe
+G:\Scoala\An 2\Sem 2\PIU\Proiect\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\EvidentaMagazin_Consola.pdb
+G:\Scoala\An 2\Sem 2\PIU\Proiect\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\LibrarieModele.dll
+G:\Scoala\An 2\Sem 2\PIU\Proiect\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\NivelStocareDate.dll
+G:\Scoala\An 2\Sem 2\PIU\Proiect\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\Scoala\An 2\Sem 2\PIU\Proiect\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\System.Security.AccessControl.dll
+G:\Scoala\An 2\Sem 2\PIU\Proiect\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\System.Security.Permissions.dll
+G:\Scoala\An 2\Sem 2\PIU\Proiect\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\System.Security.Principal.Windows.dll
+G:\Scoala\An 2\Sem 2\PIU\Proiect\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\LibrarieModele.pdb
+G:\Scoala\An 2\Sem 2\PIU\Proiect\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\NivelStocareDate.pdb
+G:\Scoala\An 2\Sem 2\PIU\Proiect\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\System.Configuration.ConfigurationManager.xml
+G:\Scoala\An 2\Sem 2\PIU\Proiect\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\System.Security.AccessControl.xml
+G:\Scoala\An 2\Sem 2\PIU\Proiect\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\System.Security.Permissions.xml
+G:\Scoala\An 2\Sem 2\PIU\Proiect\Proiect-PIU-main\EvidentaMagazin_Consola\bin\Debug\System.Security.Principal.Windows.xml
+G:\Scoala\An 2\Sem 2\PIU\Proiect\Proiect-PIU-main\EvidentaMagazin_Consola\obj\Debug\EvidentaMagazin_Consola.csproj.AssemblyReference.cache
+G:\Scoala\An 2\Sem 2\PIU\Proiect\Proiect-PIU-main\EvidentaMagazin_Consola\obj\Debug\EvidentaMagazin_Consola.csproj.SuggestedBindingRedirects.cache
+G:\Scoala\An 2\Sem 2\PIU\Proiect\Proiect-PIU-main\EvidentaMagazin_Consola\obj\Debug\EvidentaMagazin_Consola.csproj.CoreCompileInputs.cache
+G:\Scoala\An 2\Sem 2\PIU\Proiect\Proiect-PIU-main\EvidentaMagazin_Consola\obj\Debug\EvidentaMagazin_Consola.csproj.CopyComplete
+G:\Scoala\An 2\Sem 2\PIU\Proiect\Proiect-PIU-main\EvidentaMagazin_Consola\obj\Debug\EvidentaMagazin_Consola.exe
+G:\Scoala\An 2\Sem 2\PIU\Proiect\Proiect-PIU-main\EvidentaMagazin_Consola\obj\Debug\EvidentaMagazin_Consola.pdb

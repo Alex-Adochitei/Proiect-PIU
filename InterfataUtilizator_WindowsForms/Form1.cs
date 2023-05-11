@@ -86,7 +86,7 @@ namespace InterfataUtilizator_WindowsForms
             int i = 0;
             foreach (Aliment aliment in alimente)
             {
-                //adaugare control de tip Label pentru numele studentilor;
+                //adaugare control de tip Label pentru denumirea alimentului
                 lblsDenumire[i] = new Label();
                 lblsDenumire[i].Width = LATIME_CONTROL;
                 lblsDenumire[i].Text = aliment.Denumire;
@@ -95,7 +95,7 @@ namespace InterfataUtilizator_WindowsForms
                 lblsDenumire[i].Top = (i + 1) * DIMENSIUNE_PAS_Y;
                 this.Controls.Add(lblsDenumire[i]);
 
-                //adaugare control de tip Label pentru prenumele studentilor
+                //adaugare control de tip Label pentru producatorul alimentului
                 lblsProducator[i] = new Label();
                 lblsProducator[i].Width = LATIME_CONTROL;
                 lblsProducator[i].Text = aliment.Producator;
@@ -104,7 +104,7 @@ namespace InterfataUtilizator_WindowsForms
                 lblsProducator[i].Top = (i + 1) * DIMENSIUNE_PAS_Y;
                 this.Controls.Add(lblsProducator[i]);
 
-                //adaugare control de tip Label pentru notele studentilor
+                //adaugare control de tip Label pentru pretul alimentului
                 lblsPret[i] = new Label();
                 lblsPret[i].Width = LATIME_CONTROL;
                 lblsPret[i].Text = string.Join(" ", aliment.Pret);
